@@ -1,0 +1,14 @@
+price_dict = {
+    "coffee": 5,
+    "bread": 8,
+    "bacon": 15,
+    "milk": 4,
+    "bagel": 9,
+    "sandwich": 12,
+    "croissant": 8,
+    #adding more items with prices
+    "tea": 20,
+    "meatpies":23,
+    "maize":7
+    
+}
